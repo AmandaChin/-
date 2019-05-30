@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/training" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grammar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/feaure_extraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset/DDICorpus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset/DDICorpus/Test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset/DDICorpus/Train" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset/DDICorpus/Test/test_for_ddi_extraction_task" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset/DDICorpus/Test/test_for_DrugNER_task" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset/DDICorpus/Train/MedLine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/feaure_extraction/saved-models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/feaure_extraction/Vectorizers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/feaure_extraction/Vectorizers/word2vec" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PreprocessData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/dataset/DDICorpus/Train/DrugBank" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.5 (detection-CNN)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
